@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+This prj has been syncronized with github.
 </body>
 </html>
