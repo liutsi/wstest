@@ -2,7 +2,7 @@
 <head><title>ws2 branch</title></head>
 <body>
 This prj has been syncronized with github.
-This is master branch.
+This is ws2 branch.
 <p/>
 Time: <%=new java.util.Date() %>
 
