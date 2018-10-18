@@ -3,6 +3,7 @@
 <body>
 This prj has been syncronized with github.
 This is ws2 branch.
+ws2 line3
 <p/>
 Time: <%=new java.util.Date() %>
 
