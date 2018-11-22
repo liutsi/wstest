@@ -12,7 +12,8 @@ add line7
 add line8
 add line9 for  master, conflict merged
 add line 10 for hygieia test.
-add one line 2018-11-22
+add one line 2018-11-22 from github
+add one line 2018-11-22 from local bitbucket
 <p/>
 Time: <%=new java.util.Date() %>
 
